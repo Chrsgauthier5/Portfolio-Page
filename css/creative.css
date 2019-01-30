@@ -24,6 +24,11 @@ hr.light {
   border-color: #fff;
 }
 
+.img-fluid {
+  height: 400px;
+  width: 650px;
+}
+
 a {
   color: orchid;
   -webkit-transition: all 0.2s;
